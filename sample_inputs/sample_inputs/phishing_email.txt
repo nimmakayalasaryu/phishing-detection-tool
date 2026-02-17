@@ -1,0 +1,9 @@
+Dear User,
+
+Your account has been suspended due to suspicious activity.
+Click the link below to verify your account immediately or it will be permanently locked.
+
+http://secure-login-alert.com/verify
+
+Thank you,
+Security Team
