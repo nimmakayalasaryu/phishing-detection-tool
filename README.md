@@ -18,4 +18,3 @@ An intelligent cybersecurity tool that detects phishing emails and malicious URL
 ## 🏗️ Project Architecture
 User Input → AI Analysis → Threat Intelligence → Risk Scoring → Security Report
 
-## 📂 Project Structure
